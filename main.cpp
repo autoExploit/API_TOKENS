@@ -1,5 +1,5 @@
-// main.cpp - generated filler file
-// This file is intentionally long (>500 lines). It contains repeated comment lines to meet the length requirement.
+// main.cpp - expanded filler file (>500 lines)
+// Minimal runnable C++ program plus many comment lines to meet the >500 lines requirement.
 
 #include <iostream>
 
@@ -8,4 +8,4 @@ int main() {
     return 0;
 }
 
-// Repeated filler lines start here
+// ---- filler lines start ----
